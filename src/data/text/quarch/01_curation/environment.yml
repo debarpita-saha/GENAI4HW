@@ -1,0 +1,11 @@
+name: data_curation
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - requests=2.31.0
+  - selenium=4.16.0
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyter

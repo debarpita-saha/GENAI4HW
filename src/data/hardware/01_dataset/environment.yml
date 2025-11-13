@@ -1,0 +1,9 @@
+name: hw_dataset_01
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyter

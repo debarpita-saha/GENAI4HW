@@ -1,0 +1,9 @@
+name: model_training
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyter
