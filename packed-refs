@@ -1,9 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-e001a97507b9a849ef4a7fb6a4e086b40e7b79d5 refs/remotes/origin/data_curation_dev
-bca67126053205345ca44e40c753f3c12cd879e7 refs/remotes/origin/data_labeling_dev
-bca67126053205345ca44e40c753f3c12cd879e7 refs/remotes/origin/data_review_dev
-bca67126053205345ca44e40c753f3c12cd879e7 refs/remotes/origin/hardware_dataset_1_dev
-bca67126053205345ca44e40c753f3c12cd879e7 refs/remotes/origin/hardware_dataset_2_dev
-0ebf117d4ba7bfa00a661812fec25152bbc294b3 refs/remotes/origin/main
-64026dcf3fab89fa0b7bf819a4a2a5b10827b593 refs/remotes/origin/model_evaluation_dev
-619ae764a8e2b3059b5e585a57e69b4bff5882e5 refs/remotes/origin/model_training_dev
